@@ -10,4 +10,8 @@
     <ProjectReference Include="..\RealEstateAd_3Tier_DAL\RealEstateAd_3Tier_DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
 </Project>
